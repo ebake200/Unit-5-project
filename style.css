@@ -1,0 +1,127 @@
+body {
+  height: 100%;
+  width: 80%;
+  background-color: #5c2e5a;
+  color:beige;
+
+  text-align: center;
+  
+}
+#wrapper {
+    background-color: #ebeaea; 
+    width: 80%;
+    padding: 20px; 
+    border: 2px solid #121111; 
+    margin: 0 auto; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+    text-align: center; 
+    font-family: Arial, sans-serif; 
+    color: #333; 
+}
+
+div{
+width: 90%;
+margin: auto;
+}
+.favorite {
+    background-color: #aeb6b7; 
+    border: 1px solid #000000; 
+    padding: 10px; 
+    margin: 10px;
+    width: 325px;
+    height: 170px; 
+    text-align: center; 
+    font-size: 16px; 
+    color: #ad7310; 
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px #888888;
+}
+.itembox2 {
+    background-color: #F0F0F0; 
+    border: 1px solid #CCCCCC; 
+    padding: 10px; 
+    margin: 10px;
+    width: 325px;
+    height: 540px; 
+    text-align: center; 
+    font-size: 16px; 
+    color: #333; 
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px #888888;
+}
+.itembox3 {
+    background-color: #F0F0F0; 
+    border: 1px solid #CCCCCC; 
+    padding: 10px; 
+    margin: 10px;
+    width: 325px;
+    height: 150px; 
+    text-align: center; 
+    font-size: 16px; 
+    color: #333; 
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px #888888;
+}
+.itembox4 {
+    background-color: #F0F0F0; 
+    border: 1px solid #CCCCCC; 
+    padding: 10px; 
+    margin: 10px;
+    width: 325px;
+    height: 3750px; 
+    text-align: center; 
+    font-size: 16px; 
+    color: #333; 
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px #888888;
+}
+.itembox5 {
+    background-color: #a1f2a6; 
+    border: 1px solid #CCCCCC; 
+    padding: 10px; 
+    margin: 10px;
+    width: 325px;
+    height: 590px; 
+    text-align: center; 
+    font-size: 16px; 
+    color: #333; 
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px #888888;
+list-style-type: upper-roman;
+}
+.itembox6 {
+    background-color: #F0F0F0; 
+    border: 1px solid #CCCCCC; 
+    padding: 10px; 
+    margin: 10px;
+    width: 325px;
+    height: 420px; 
+    text-align: center; 
+    font-size: 16px; 
+    color: #333; 
+   border-radius: 50px;
+    box-shadow: 5px 5px 10px #888888; 
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2e2929;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+
